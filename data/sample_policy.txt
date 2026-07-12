@@ -1,0 +1,144 @@
+========================================
+BANK LOAN POLICY DOCUMENT
+Effective Date: January 1, 2024
+========================================
+
+----------------------------------------
+1. PERSONAL LOAN POLICY
+----------------------------------------
+Minimum Monthly Salary: ₹30,000
+Maximum Loan Amount: ₹10,00,000 (10 Lakhs)
+Minimum Age: 21 years
+Maximum Age: 60 years
+Minimum Credit Score: 700
+Loan Tenure: 12 months to 60 months (1 to 5 years)
+Interest Rate: 10.5% to 14% per annum (based on credit profile)
+Processing Fee: 1% to 2% of loan amount
+Prepayment Charges: 2% on outstanding principal after 6 months; nil after 24 months
+Maximum Loan-to-Income Ratio: Loan amount must not exceed 10 times the monthly salary
+
+Eligibility Criteria:
+- Applicant must be a salaried or self-employed Indian resident.
+- Minimum 1 year of continuous employment with current employer.
+- No active defaults or write-offs in the last 3 years.
+- Debt-to-income ratio must not exceed 50%.
+
+----------------------------------------
+2. HOME LOAN POLICY
+----------------------------------------
+Minimum Monthly Salary: ₹50,000
+Maximum Loan Amount: ₹1,00,00,000 (1 Crore)
+Minimum Age: 21 years
+Maximum Age: 65 years (at loan maturity)
+Minimum Credit Score: 720
+Loan Tenure: Up to 30 years
+Interest Rate: 8.5% to 11% per annum
+Processing Fee: 0.5% to 1% of loan amount
+Maximum Loan-to-Value (LTV) Ratio: 80% of property value
+Down Payment Required: Minimum 20% of property value
+
+Eligibility Criteria:
+- Applicant must be a salaried employee or self-employed professional.
+- Minimum 2 years of stable income history.
+- Property must be approved by the bank's empanelled valuers.
+- Co-applicant (spouse or parent) may be required for higher loan amounts.
+- No active defaults in the last 5 years.
+
+----------------------------------------
+3. CREDIT SCORE GUIDELINES
+----------------------------------------
+Credit Score Range and Classification:
+
+750 and above — EXCELLENT
+- Eligible for all loan products.
+- Best interest rates offered.
+- Minimal documentation required.
+- Fastest processing time (2–3 business days).
+
+700 to 749 — GOOD
+- Eligible for personal loans and home loans.
+- Standard interest rates apply.
+- Full documentation required.
+- Processing time: 4–5 business days.
+
+650 to 699 — FAIR
+- Eligible for personal loans only with additional conditions.
+- A guarantor or co-applicant may be required.
+- Higher interest rates apply (towards upper band).
+- Enhanced scrutiny on bank statements and income proof.
+- Home loans not available in this range.
+
+Below 650 — POOR / REJECTED
+- Not eligible for any standard loan products.
+- Applicant may apply for a secured loan against fixed deposits.
+- Recommended to improve credit score before reapplying.
+- Minimum waiting period: 6 months after credit score improvement.
+
+Factors Affecting Credit Score:
+- Payment history (35%)
+- Credit utilization ratio (30%)
+- Length of credit history (15%)
+- Credit mix (10%)
+- New credit inquiries (10%)
+
+Tips to Improve Credit Score:
+- Pay all EMIs and credit card bills on time.
+- Keep credit utilization below 30%.
+- Avoid applying for multiple loans simultaneously.
+- Do not close old credit accounts unnecessarily.
+- Resolve any outstanding dues or disputes with lenders.
+
+----------------------------------------
+4. REQUIRED DOCUMENTS
+----------------------------------------
+
+For Salaried Applicants:
+- Aadhar Card (Identity and Address Proof)
+- PAN Card (mandatory for all applicants)
+- Last 3 months' salary slips
+- Last 6 months' bank statements (primary salary account)
+- Form 16 (last 2 years) or latest Income Tax Return
+- Employment confirmation letter or offer letter
+- Passport-size photographs (2 copies)
+
+For Self-Employed Applicants:
+- Aadhar Card
+- PAN Card
+- Last 2 years' Income Tax Returns with computation
+- Last 2 years' audited balance sheet and profit & loss statements
+- Last 6 months' bank statements (business and personal)
+- Business registration certificate / GST registration
+- Passport-size photographs (2 copies)
+
+For Home Loans (Additional Documents):
+- Sale agreement / allotment letter of the property
+- Title deed and property chain documents
+- Approved building plan from municipal authority
+- No Objection Certificate (NOC) from builder/society
+- Property tax receipts (last 3 years)
+- Encumbrance certificate
+
+----------------------------------------
+5. LOAN PROCESSING & TIMELINE
+----------------------------------------
+Step 1: Application Submission — Day 1
+Step 2: Document Verification — Day 1 to 2
+Step 3: Credit Score Check — Day 2
+Step 4: Field Verification (for home loans) — Day 3 to 5
+Step 5: Credit Appraisal & Approval — Day 5 to 7
+Step 6: Loan Agreement Signing — Day 7 to 8
+Step 7: Disbursement — Day 8 to 10
+
+Personal loans with excellent credit profiles may be approved within 24 hours.
+
+----------------------------------------
+6. CONTACT & GRIEVANCE REDRESSAL
+----------------------------------------
+For queries, contact your nearest branch or call our helpline: 1800-XXX-XXXX
+Email: loans@bankname.com
+Grievance Officer: grievance@bankname.com
+Response time: Within 5 business days
+
+========================================
+END OF POLICY DOCUMENT
+========================================

@@ -1,0 +1,11 @@
+langchain==0.2.16
+langchain-anthropic==0.1.23
+langchain-openai==0.1.25
+langchain-community==0.2.16
+anthropic==0.34.2
+openai==1.45.0
+faiss-cpu==1.8.0
+streamlit==1.38.0
+pypdf==4.3.1
+python-dotenv==1.0.1
+tiktoken==0.7.0
